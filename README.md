@@ -1,13 +1,13 @@
 # **WordPress Plugin Detector**
 
 This bash script, WordPress Plugin Detector, is a handy tool designed for penetration testers and security enthusiasts to quickly identify WordPress plugins running on a target website. With a simple command-line interface, this script extracts plugin names from a given IP address and port, then searches for related exploits using searchsploit.
-- [[#Features]]
-- [[#Usage]]
-- [[#How it works]]
-- [[#Requirements]]
-- [[#Disclaimer]]
-- [[#Installation]]
-- [[#Contributions]]
+- [Features](#Features)
+- [Usage](#Usage)
+- [How it works](#How-it-works)
+- [Requirements](#Requirements)
+- [Disclaimer](#Disclaimer)
+- [Installation](#Installation)
+- [Contributions](#Contributions)
 
 ## Features
 - 🔎 **Detection:** Extracts plugin names from the target WordPress website.
